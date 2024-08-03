@@ -2,12 +2,14 @@
 
 This Streamlit app allows you to upload an image of stacked sheets and automatically count the number of sheets using edge detection.
 
+[For demo video click here](https://drive.google.com/file/d/1ku44HIdne5Usv9i-RTFsrc2hvA387BUv/view?usp=sharing)
+
 ## Features
 - Upload an image and get the sheet count.
 - View the original and edge-detected images side by side.
 - See the processing time for the image.
 - Option to view default edge detection thresholds.
-
+  
 ## Prerequisites
 
 Before running the app, ensure you have the following installed:
